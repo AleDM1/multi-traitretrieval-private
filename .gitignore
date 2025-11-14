@@ -1,2 +1,6 @@
-dataset/
-Merged_dataset_multiTraits.csv
+# Escludi i dataset pesanti
+# dataset/
+Merged_datasets_multiTraits.csv
+
+# (opzionale) escludi tutti i CSV
+# *.csv
