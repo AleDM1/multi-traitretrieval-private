@@ -3,8 +3,8 @@
 This private repository contains a local working copy of the code from:
 https://gitlab.com/eya95/multi-traitretrieval
 
-Original work by: <nomi autori>
-Paper: <riferimento bibliografico, DOI se c'è>
+Original work by: Eya Cherif, Hannes Feilhauer, Katja Berger, Phuong D. Dao, Michael Ewald, Tobias B. Hank, Yuhong He, Kyle R. Kovach, Bing Lu, Philip A. Townsend, Teja Kattenborn
+Paper: https://doi.org/10.1016/j.rse.2023.113580
 
 Large dataset CSV files from the original repository have been intentionally excluded
 from version control and are kept only in local storage for experimentation.
