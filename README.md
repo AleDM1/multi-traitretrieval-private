@@ -1,5 +1,13 @@
 # Multi-traitRetrieval
 
+This private repository contains a local working copy of the code from:
+https://gitlab.com/eya95/multi-traitretrieval
+
+Original work by: <nomi autori>
+Paper: <riferimento bibliografico, DOI se c'è>
+
+Large dataset CSV files from the original repository have been intentionally excluded
+from version control and are kept only in local storage for experimentation.
 
 
 <!-- ## Getting started
